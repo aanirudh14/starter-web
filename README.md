@@ -9,3 +9,9 @@ Sample website with plenty of files for demos
 ## Deployment
 
 Description for deployment
+
+## staging only
+This is only for staging
+
+## Working Directory only
+This will be only in working directory
