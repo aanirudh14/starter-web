@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <RUDI> -- <role> -- <@rudi92>
 
 # THANKS
 
